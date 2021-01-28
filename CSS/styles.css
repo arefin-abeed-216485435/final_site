@@ -1,0 +1,120 @@
+body{
+  margin: 0;
+  background-color: #fff;
+  font-family: 'Yusei Magic', sans-serif;
+}
+h1{
+  margin-top: 0;
+  font-family: 'Indie Flower', cursive;
+  color: #23689b;
+}
+.mini{
+  height: 100px;
+  opacity: 0.7;
+}
+.top{
+  position: relative;
+  left: 65%;
+  top: 40px;
+}
+.bottom{
+  position: relative;
+  left: 25%;
+  bottom: 35px;
+}
+.intro{
+  text-align: center;
+  color: #23689b;
+}
+.middle-container{
+  margin-top: 70px;
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+hr{
+  border-style: dotted;
+  border-top: none;
+  width: 4%;
+  border-width: 10px;
+  border-color: grey;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.mypic{
+  margin-bottom: 10px;
+  height: 210px;
+}
+.anime{
+  border-radius: 50%;
+  float: left;
+  height: 140px;
+  margin-left: 80px;
+  margin-right: 30px;
+}
+.music{
+  height: 140px;
+  border-radius: 50%;
+  float: right;
+  margin-right: 60px;
+}
+.bottom-container{
+  text-align: center;
+  margin-bottom: 70px;
+}
+.copyright{
+  color: black;
+}
+.hey{
+  font-size: 200%;
+}
+.top-container{
+  background-color: #eff8ff;
+  border-radius: 2px;
+  border-color: #eff8ff;
+  border-style: solid;
+  border-width: thin;
+  box-shadow: 2px 2px 5px #aaaaaa;
+  margin: 0 20px 0 20px;
+}
+h3{
+  color:#11999E;
+}
+.introspeech{
+  margin: 0 20%;
+}
+.skills{
+  margin: 0 10%;
+}
+.codingskill{
+  text-align: left;
+}
+.musicwriting{
+  text-align: left;
+  margin-left: 80px;
+}
+.design{
+  margin-bottom: 120px;
+}
+.musicdiv{
+  margin-bottom: 120px;
+}
+.contactme{
+  background-color:#18c7c7;
+  margin-bottom: -20px;
+  text-align: center;
+  padding: 40px;
+  font-family: Arial;
+}
+.whitetext{
+  color: white;
+}
+.lastthing{
+  font-size: 10px;
+}
+.contactlink{
+  color: #11999E;
+  font-family: "Indie Flower";
+  font-size: 21px;
+  text-decoration: none;
+}
